@@ -8,7 +8,7 @@
 - CSS for styling and design.
 
 ## Live Page
-Check out the live page of the project [here](). 
+Check out the live page of the project [here](https://alaakholif.github.io/Fokir/). 
 
 ## Notes
 - This project is for educational purposes and HTML/CSS practice.
